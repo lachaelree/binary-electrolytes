@@ -10,7 +10,7 @@ xmc.ipynb shows converting between molality and molarity.
 
 ## Self-proposed mixing rules for activity coefficient of electrolytes
 
-mixin-rules.ipynb presents four different functions representing four self-proposed mixing rules to predict the activity coefficient of single salts in binary solvents (e.g. LiPF6(salt) in 40%-Ethanol(solvent 1)-60%-water(solvent 2))
+mixingrules.ipynb presents four different functions representing four self-proposed mixing rules to predict the activity coefficient of single salts in binary solvents (e.g. LiPF6(salt) in 40%-Ethanol(solvent 1)-60%-water(solvent 2))
 
 ### Why are we interested in double solvents?
 
